@@ -1,0 +1,23 @@
+name: Real Estate
+favicon: null
+layout_spectrum: 0.06854932941496372
+typography_spectrum: 0.5339464030694216
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.705145679647103
+  lightness: 0.9597327306400985
+  saturation: 0.5151569093577564
+  rhythmicContrast: 0.00029936572536826134
+purpose: []

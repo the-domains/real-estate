@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Real Estate]]></title>
+        <description><![CDATA[Real Estate]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 12 Dec 2015 20:49:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Coming Soon!</p>]]></description>
+            <link>undefinedc63eb409-6f3c-4459-a615-f54626b2556a/index.html</link>
+            <guid isPermaLink="false">c63eb409-6f3c-4459-a615-f54626b2556a</guid>
+            <pubDate>Sat, 12 Dec 2015 20:49:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
